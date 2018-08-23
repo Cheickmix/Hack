@@ -1,2 +1,3 @@
 # Hack
-My name is Cheick https://github.com/Cheickmix
+Cheick Ndiaye & Steven Stratton
+https://github.com/Cheickmix
