@@ -8,6 +8,6 @@
 int main(int argc, char **argv) {
 
   printf("My name is Cheick and i'm a Computer Science major!\n");
-
+  printf("My name is Steven Stratton and my major is Computer Science\n")
   return 0;
 }
